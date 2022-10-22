@@ -1,4 +1,4 @@
-👋 Soy Leandro!. Desde siempre estoy interesado en tecnologia, arte 3D, videojuegos y hace no mucho por el mundo del desarrollo web.\
+👋 Soy Leandro!. Desde siempre estoy interesado en tecnologia, 3D, videojuegos y hace no mucho por el mundo del desarrollo web.\
 Actualmente estudiando Desarrollo Web Fullstack en Academy by Numen y Autodidacta, como siempre!
 
 Algunos de mis trabajos en 3D podes verlos acá: [Portfolio](https://www.artstation.com/leandrocastagno).\
