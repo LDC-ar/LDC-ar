@@ -2,7 +2,7 @@
 Actualmente estudiando Desarrollo Web Fullstack en Academy by Numen y Autodidacta, como siempre!
 
 Algunos de mis trabajos en 3D podes verlos acá: [Portfolio](https://www.artstation.com/leandrocastagno).\
-Sobre desarrollo web te comparto este ecommerce que hice junto a unos colegas. [Ecommerce](https://proyecto-numen-ecommerce-app.vercel.app/#hero-home).\
+Sobre desarrollo web te comparto este ecommerce que hice junto a unos colegas. [Ecommerce](https://proyecto-numen-ecommerce-app.vercel.app/#hero-home).
 
 - 📫 Para contactarme están todos los links necesarios en mi perfil ...
 
