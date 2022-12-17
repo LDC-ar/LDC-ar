@@ -1,6 +1,5 @@
-👋 Soy Leandro!. Desde siempre estoy interesado en tecnologia, 3D, videojuegos y hace no mucho por el mundo del desarrollo web.\
-Desde hace ya unos años que me dedico al 3D especialmente para videojuegos.\
-Actualmente estudiando Desarrollo Web Fullstack en Academy by Numen y Autodidacta, como siempre!
+👋 Soy Leandro!. Soy desarrollador web Full Stack con orientación a Frontend y Artista 3D. Apasionado del mundo digital y siempre atraído por la forma en que la tecnología nos permite comunicarnos e interactuar con otras personas.\
+Desde muy pequeño me ha fascinado la tecnología y los videojuegos, y he estado desarrollando mis habilidades y conocimientos en estos campos de manera autodidacta y a través de diversos cursos y diplomaturas.
 
 Algunos de mis trabajos en 3D podes verlos acá: [Portfolio](https://www.artstation.com/leandrocastagno).\
 Sobre desarrollo web te comparto este ecommerce que hice junto a unos colegas. Diseño realizado en Figma, maquetado con CSS, y se utilizó React junto con algunas librerias de animaciones: [Ecommerce](https://proyecto-numen-ecommerce-app.vercel.app/#hero-home).
